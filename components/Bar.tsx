@@ -4,7 +4,7 @@ import Label from "./Label";
 
 const Bar = ({ data /* see data tab */ }: any) => (
   <>
-    <Label>3. 막대그래프</Label>
+    <Label>3.</Label>
     <div className="h-[900px] w-full">
       <ResponsiveBar
         groupMode="grouped"
